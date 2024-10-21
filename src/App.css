@@ -1,0 +1,27 @@
+body {
+    background-color: #4f70b3;
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: left;
+}
+
+.auth_container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+.auth-form button:hover {
+    background: #0056b3;
+  }
+  
+.auth_container2 {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
